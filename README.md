@@ -6,9 +6,9 @@
 - __[CONTACT]()__ - Offer as well as geographic contact info target the audience who want to folow and contact with them
 - __[MORE>]()__   - Provide others services -->
 
----
-### Story:
-> IN-PROGRESS: đang làmmm đừng có hốii 🥲
+<!-- --- -->
+### Status: IN-PROGRESS
+  Đang làmmm đừng có hốii 🥲
 ---
 <!-- ### Screenshots: 
 ![Home](https://github.com/minatisleeping/The-Band/blob/main/screenshots/home.png)
