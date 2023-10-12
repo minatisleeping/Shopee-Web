@@ -7,8 +7,8 @@
 - __[MORE>]()__   - Provide others services -->
 
 <!-- --- -->
-### Status: IN-PROGRESS
-  Đang làmmm đừng có hốii 🥲
+### STATUS: on-progress
+  Đang làmmm đừng có hốii.. 🥲
 ---
 <!-- ### Screenshots: 
 ![Home](https://github.com/minatisleeping/The-Band/blob/main/screenshots/home.png)
