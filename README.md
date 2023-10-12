@@ -8,7 +8,7 @@
 
 <!-- --- -->
 ### STATUS: on-progress
-  Đang làmmm đừng có hốii.. 🥲
+###### Đang làmmm đừng có hốii.. 🥲
 ---
 <!-- ### Screenshots: 
 ![Home](https://github.com/minatisleeping/The-Band/blob/main/screenshots/home.png)
