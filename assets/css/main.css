@@ -12,6 +12,7 @@
 .header__navbar-list {
     list-style: none;
     padding-left: 0;
+    margin-top: 10px;;
 }
 
 .header__navbar-item {
@@ -28,6 +29,13 @@
     font-weight: 300;
 }
 
+.header__navbar-item:hover,
+.header__navbar-item-link:hover {
+    color: rgba(255, 255, 255, 0.7);
+    cursor: pointer;
+}
+
+
 .header__navbar-item--strong {
     font-weight: 400;
 }
@@ -41,4 +49,9 @@
     right: -9px;
     top: 50%;
     transform: translateY(-50%);
+}
+
+.header__navbar-icon-link {
+    color: var(--white-color);
+    text-decoration: none;
 }
