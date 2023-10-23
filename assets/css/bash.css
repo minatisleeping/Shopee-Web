@@ -78,7 +78,8 @@ html {
     color: var(--text-color);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; 
+    line-height: 1.6rem;
 }
 
 .btn.btn--normal:hover {
