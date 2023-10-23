@@ -41,6 +41,14 @@ html {
         opacity: 1;
     }
 }
+@keyframes growth {
+    from {
+        transform: scale(var(--growth-from));
+    } 
+    to {
+        transform: scale(var(--growth-to));
+    }
+}
 
 /* Modal */
 .modal {
@@ -50,6 +58,7 @@ html {
     bottom: 0;
     left: 0;
     display: flex;
+    animation: fadeIn linear 0.1s;
 }
 
 .modal__overlay {
@@ -60,9 +69,12 @@ html {
 }
 
 .modal__body {
+    --growt-from: 0.7;
+    --growt-to: 1;
     margin: auto;
     position: relative;
     z-index: 1;
+    animation: growth linear 0.1s;
 }
 /* Button style */
 .btn {
