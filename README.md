@@ -7,7 +7,7 @@
 - __[MORE>]()__   - Provide others services -->
 
 <!-- --- -->
-### STATUS: on-progress (Finished 48.8%..)
+### STATUS: on-progress (Finished 51%..)
 ###### Đang làmmm đừng có hốii.. 🥲
 <!-- --- -->
 <!-- ### Screenshots: 
