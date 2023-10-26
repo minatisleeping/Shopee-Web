@@ -29,7 +29,7 @@
 }
 
 .header__navbar-user-name {
-    margin-left: 8px;
+    margin-left: 4px;
     margin-top: 2px;
     font-size: 1.2rem;
     font-weight: 400;
@@ -73,8 +73,8 @@
     height: 8px;
 }
 
-.header__navbar-user-item {
-
+.header__navbar-user-item--seperate {
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .header__navbar-user-item a {
@@ -123,7 +123,7 @@
 .header__navbar-item,
 .header__navbar-item-link {
     display: inline-block;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: var(--white-color);
     text-decoration: none;
     font-weight: 300;
@@ -162,6 +162,12 @@
 .header__navbar-icon-link {
     color: var(--white-color);
     text-decoration: none;
+    margin-top: -3px;
+}
+
+.header__navbar-icon-link:nth-child(2) {
+    margin-left: 4px;
+    
 }
 
 .header__navbar-icon {
@@ -222,13 +228,15 @@
 /* Header notification */
 .header__notify {
     position: absolute;
+    z-index: 1;
     top: 118%;
     right: 0;
     width: 404px;
-    border: 1px solid #D3D3D3;
+    border-radius: 2px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
     background-color: var(--white-color);
     cursor: default;
-    transform-origin: 90% top;
+    transform-origin: calc(100% - 32px) top;
     animation: headerNotifyGrowth ease-in 0.2s;
     will-change: opacity, transform;
     display: none;
@@ -472,8 +480,14 @@
     width: 200px;
 }
 
+.header__logo-link {
+    text-decoration: none;
+    color: transparent;
+}
+
 .header__logo-img {
     width: 150px;
+    color: var(--white-color);
 }
 
 .header__search {
