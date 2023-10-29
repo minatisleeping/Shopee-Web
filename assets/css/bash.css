@@ -179,6 +179,7 @@ html {
     padding: 10px 16px;
     list-style: none;
     display: none;
+    z-index: 1;
 }
 
 .select-input__link {
