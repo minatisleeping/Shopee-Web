@@ -1,18 +1,25 @@
-## Sộp pe WEBSITE   🛒 🛍️ 🤑
-<!-- #### IN THIS PAGE, I'VE BUILT SOME BUTTONS TO MOVE EVERY PART OF PAGE EASIER!
-- __[HOME]()__    - Return to main page to see about images about the band
-- __[BAND]()__    - Information about the band 
-- __[TOUR]()__    - Ticket services is also provided and touring schedule in here
-- __[CONTACT]()__ - Offer as well as geographic contact info target the audience who want to folow and contact with them
-- __[MORE>]()__   - Provide others services -->
+# Cloning Shopee Việt Nam Website
 
-<!-- --- -->
-### STATUS: on-progress (Finished 100%..)
-###### Đang làmmm đừng có hốii.. 🥲
-<!-- --- -->
-<!-- ### Screenshots: 
-![Home](https://github.com/minatisleeping/The-Band/blob/main/screenshots/home.png)
-![Contact](https://github.com/minatisleeping/The-Band/blob/main/screenshots/contact.png)
-![Social Media](https://github.com/minatisleeping/The-Band/blob/main/screenshots/social%20media.png) -->
+This is a cloned website of [Shopee Việt Nam](https://shopee.vn/)
 
-#### © 2023 minat.isleeping 🥱💤
+## :writing_hand: Description
+* The purpose of doing this web is to practice `HTML`, `CSS`, `JavaScript`, `Web Responsive`, `SCSS` & `BEM` 
+
+## :computer: Technology
+`HTML` `CSS` `JavaScript` `SCSS`
+
+## :camera_flash:	 Some preview images
+![Header Demo](./assets/img/header.png)
+![Body Demo](./assets/img/body.png)
+![Footer Demo](./assets/img/footer.png)
+
+### :round_pushpin: Links
+- Solution URL: [Github](https://github.com/minatisleeping/Shopee-Web)
+<!-- - Live Site URL: [Github Page](https://tienhuynh-tn.github.io/clone-shopee/) -->
+
+## :books: Learn more
+* I learned to do this web in [F8 - Học lập trình để đi làm](https://fullstack.edu.vn/)
+* To learn more about HTML, CSS and JavaScript, you can check out [W3Schools](https://www.w3schools.com/)
+
+## :heavy_check_mark:	 License & Copyright
+&copy; 2023 Mai Minh Nhat minatisleeping Licensed under the [MIT LICENSE](https://github.com/minatisleeping/Shopee-Web/blob/main/LICENSE).
