@@ -15,7 +15,7 @@ This is a cloned website of [Shopee Việt Nam](https://shopee.vn/)
 
 ### :round_pushpin: Links
 - Solution URL: [Github](https://github.com/minatisleeping/Shopee-Web)
-<!-- - Live Site URL: [Github Page](https://tienhuynh-tn.github.io/clone-shopee/) -->
+- Live Site URL: [Github Page](https://minatisleeping.github.io/Shopee-Web/)
 
 ## :books: Learn more
 * I learned to do this web in [F8 - Học lập trình để đi làm](https://fullstack.edu.vn/)
